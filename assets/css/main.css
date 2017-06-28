@@ -1,0 +1,42 @@
+#header{
+    height: 80px;
+    border: 1px solid #000;
+}
+#logo{
+    height:40px;
+    border: 1px solid #000;
+}
+#search{
+    height:40px;
+    border: 1px solid #000;
+}
+#login{
+    height:40px;
+    border: 1px solid #000;
+    float: right;
+}
+#menu{
+    height:40px;
+    border: 1px solid #000;
+}
+#menuItem{
+    height: 40px;
+    border: 1px solid #000;
+}
+#content{
+    margin-top:15px;
+    height:auto;
+    border: 1px solid #000;
+}
+#mainBanner{
+    height:350px;
+    border: 1px solid #000;
+}
+#section{
+    height:450px;
+    border: 1px solid #000;
+}
+#footer{
+    height:50px;
+    border: 1px solid #000;
+}

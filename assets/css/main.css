@@ -1,27 +1,35 @@
 #header{
     height: 80px;
-    border: 1px solid #000;
+    border: 1px solid #fff;
+    background-color:#000;
 }
 #logo{
     height:40px;
-    border: 1px solid #000;
+    border: 1px solid #fff;
+}
+#searchPlace{
+    width: 100%;
+    font-size: 18px;
+    margin-top:5px;
 }
 #search{
     height:40px;
-    border: 1px solid #000;
+    border: 1px solid #fff;
+    margin-left: 35px;
+
 }
 #login{
     height:40px;
-    border: 1px solid #000;
+    border: 1px solid #fff;
     float: right;
 }
 #menu{
     height:40px;
-    border: 1px solid #000;
+    border: 1px solid #fff;
 }
 #menuItem{
     height: 40px;
-    border: 1px solid #000;
+    border: 1px solid #fff;
 }
 #content{
     margin-top:15px;
